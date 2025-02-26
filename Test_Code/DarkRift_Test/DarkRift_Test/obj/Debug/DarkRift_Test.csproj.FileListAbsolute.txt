@@ -11,3 +11,16 @@ C:\Dev\Unity\Test_Code\DarkRift_Test\DarkRift_Test\obj\Debug\DarkRift_Test.cspro
 C:\Dev\Unity\Test_Code\DarkRift_Test\DarkRift_Test\obj\Debug\DarkRift.197CBBCA.Up2Date
 C:\Dev\Unity\Test_Code\DarkRift_Test\DarkRift_Test\obj\Debug\DarkRift_Test.dll
 C:\Dev\Unity\Test_Code\DarkRift_Test\DarkRift_Test\obj\Debug\DarkRift_Test.pdb
+C:\Dev\DarkRift_2_Base\Test_Code\DarkRift_Test\DarkRift_Test\bin\Debug\DarkRift_Test.dll
+C:\Dev\DarkRift_2_Base\Test_Code\DarkRift_Test\DarkRift_Test\bin\Debug\DarkRift_Test.pdb
+C:\Dev\DarkRift_2_Base\Test_Code\DarkRift_Test\DarkRift_Test\bin\Debug\DarkRift.dll
+C:\Dev\DarkRift_2_Base\Test_Code\DarkRift_Test\DarkRift_Test\bin\Debug\DarkRift.Server.dll
+C:\Dev\DarkRift_2_Base\Test_Code\DarkRift_Test\DarkRift_Test\bin\Debug\DarkRift.pdb
+C:\Dev\DarkRift_2_Base\Test_Code\DarkRift_Test\DarkRift_Test\bin\Debug\DarkRift.xml
+C:\Dev\DarkRift_2_Base\Test_Code\DarkRift_Test\DarkRift_Test\bin\Debug\DarkRift.Server.pdb
+C:\Dev\DarkRift_2_Base\Test_Code\DarkRift_Test\DarkRift_Test\bin\Debug\DarkRift.Server.xml
+C:\Dev\DarkRift_2_Base\Test_Code\DarkRift_Test\DarkRift_Test\obj\Debug\DarkRift_Test.csproj.AssemblyReference.cache
+C:\Dev\DarkRift_2_Base\Test_Code\DarkRift_Test\DarkRift_Test\obj\Debug\DarkRift_Test.csproj.CoreCompileInputs.cache
+C:\Dev\DarkRift_2_Base\Test_Code\DarkRift_Test\DarkRift_Test\obj\Debug\DarkRift.197CBBCA.Up2Date
+C:\Dev\DarkRift_2_Base\Test_Code\DarkRift_Test\DarkRift_Test\obj\Debug\DarkRift_Test.dll
+C:\Dev\DarkRift_2_Base\Test_Code\DarkRift_Test\DarkRift_Test\obj\Debug\DarkRift_Test.pdb

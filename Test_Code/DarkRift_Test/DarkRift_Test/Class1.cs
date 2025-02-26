@@ -16,7 +16,7 @@ namespace DarkRift_Test
         {
             ClientManager.ClientConnected += OnClientConnected;
             ClientManager.ClientDisconnected += OnClientDisconnected;
-            Console.WriteLine("TEST OK 2222");
+            Console.WriteLine("TEST OK 4444");
         }
 
         private void OnClientConnected(object sender, ClientConnectedEventArgs e)
